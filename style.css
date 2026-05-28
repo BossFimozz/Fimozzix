@@ -1,0 +1,73 @@
+.vst {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.vst img {
+    width: 300px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.список {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.miku {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.miku img {
+    width: 300px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.teto {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.teto img {
+    width: 300px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.rinlen {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.rinlen img {
+    width: 300px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.tomain {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: aquamarine;
+
+}
+
+body {
+    font-family: "Prosto One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
